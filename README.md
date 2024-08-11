@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tomaszz.siar@gmail.com
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: The Witcher 3 is the best game ever
 
