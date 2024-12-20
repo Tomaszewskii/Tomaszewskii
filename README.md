@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomaszewskii
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C# and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
